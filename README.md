@@ -24,19 +24,19 @@ y los ayudantes Manuel Soto y Alejandro Hernández.
 
 * [Tarea 02](https://github.com/JohannGordillo/Lenguajes-de-Programacion/tree/master/Tareas/tarea_02)
 
-* [Tarea 03](https://github.com/JohannGordillo/Lenguajes-de-Programacion/tree/master/Tareas/tarea_03)
+* [Tarea 03 - Cálculo lambda](https://github.com/JohannGordillo/Lenguajes-de-Programacion/tree/master/Tareas/tarea_03)
 
-* [Tarea 04](https://github.com/JohannGordillo/Lenguajes-de-Programacion/tree/master/Tareas/tarea_04)
+* [Tarea 04 - Estrategias de evaluación](https://github.com/JohannGordillo/Lenguajes-de-Programacion/tree/master/Tareas/tarea_04)
 
-* [Tarea 05](https://github.com/JohannGordillo/Lenguajes-de-Programacion/tree/master/Tareas/tarea_05)
+* [Tarea 05 - Recursión](https://github.com/JohannGordillo/Lenguajes-de-Programacion/tree/master/Tareas/tarea_05)
 
-* [Tarea 06](https://github.com/JohannGordillo/Lenguajes-de-Programacion/tree/master/Tareas/tarea_06)
+* [Tarea 06 - Paso de parámetros](https://github.com/JohannGordillo/Lenguajes-de-Programacion/tree/master/Tareas/tarea_06)
 
-* [Tarea 07](https://github.com/JohannGordillo/Lenguajes-de-Programacion/tree/master/Tareas/tarea_07)
+* [Tarea 07 - Continuation Passing Style (CPS)](https://github.com/JohannGordillo/Lenguajes-de-Programacion/tree/master/Tareas/tarea_07)
 
-* [Tarea 08](https://github.com/JohannGordillo/Lenguajes-de-Programacion/tree/master/Tareas/tarea_08)
+* [Tarea 08 - Semántica y sistema de tipos](https://github.com/JohannGordillo/Lenguajes-de-Programacion/tree/master/Tareas/tarea_08)
 
-* [Tarea 09](https://github.com/JohannGordillo/Lenguajes-de-Programacion/tree/master/Tareas/tarea_09)
+* [Tarea 09 - Inferencia de tipos, polimorfismo y unificación](https://github.com/JohannGordillo/Lenguajes-de-Programacion/tree/master/Tareas/tarea_09)
 
 ## Requisitos 📋
 
