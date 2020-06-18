@@ -20,9 +20,9 @@ y los ayudantes Manuel Soto y Alejandro Hernández.
 
 ## Tareas :pencil:
 
-* [Tarea 01](https://github.com/JohannGordillo/Lenguajes-de-Programacion/tree/master/Tareas/tarea_01)
+* [Tarea 01 - Conceptos generales](https://github.com/JohannGordillo/Lenguajes-de-Programacion/tree/master/Tareas/tarea_01)
 
-* [Tarea 02](https://github.com/JohannGordillo/Lenguajes-de-Programacion/tree/master/Tareas/tarea_02)
+* [Tarea 02 - Generación de código ejecutable](https://github.com/JohannGordillo/Lenguajes-de-Programacion/tree/master/Tareas/tarea_02)
 
 * [Tarea 03 - Cálculo lambda](https://github.com/JohannGordillo/Lenguajes-de-Programacion/tree/master/Tareas/tarea_03)
 
