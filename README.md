@@ -1,7 +1,7 @@
 # Lenguajes de Programación :computer:
 
-Repositorio para las prácticas y proyectos del curso de Lenguajes de Programación
-impartido en la Facultad de Ciencias de la UNAM durante el semestre 2020-2 por la M.I. Karla Ramírez Pulido
+Repositorio para las prácticas del curso de Lenguajes de Programación
+impartido en la Facultad de Ciencias de la UNAM durante el semestre 2020-2 por la profesora M.I. Karla Ramírez Pulido
 y los ayudantes Manuel Soto y Alejandro Hernández.
 
 ## Prácticas :file_folder:
