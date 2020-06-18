@@ -18,7 +18,27 @@ y los ayudantes Manuel Soto y Alejandro Hernández.
 
 * [Práctica 06](https://github.com/JohannGordillo/Lenguajes-de-Programacion/tree/master/Practicas/practica_06)
 
-### Prerrequisitos 📋
+## Tareas :file_folder:
+
+* [Tarea 01](https://github.com/JohannGordillo/Lenguajes-de-Programacion/tree/master/Tareas/tarea_01)
+
+* [Tarea 02](https://github.com/JohannGordillo/Lenguajes-de-Programacion/tree/master/Tareas/tarea_02)
+
+* [Tarea 03](https://github.com/JohannGordillo/Lenguajes-de-Programacion/tree/master/Tareas/tarea_03)
+
+* [Tarea 04](https://github.com/JohannGordillo/Lenguajes-de-Programacion/tree/master/Tareas/tarea_04)
+
+* [Tarea 05](https://github.com/JohannGordillo/Lenguajes-de-Programacion/tree/master/Tareas/tarea_05)
+
+* [Tarea 06](https://github.com/JohannGordillo/Lenguajes-de-Programacion/tree/master/Tareas/tarea_06)
+
+* [Tarea 07](https://github.com/JohannGordillo/Lenguajes-de-Programacion/tree/master/Tareas/tarea_07)
+
+* [Tarea 08](https://github.com/JohannGordillo/Lenguajes-de-Programacion/tree/master/Tareas/tarea_08)
+
+* [Tarea 09](https://github.com/JohannGordillo/Lenguajes-de-Programacion/tree/master/Tareas/tarea_09)
+
+## Requisitos 📋
 
 * [Racket](https://download.racket-lang.org/)
 
