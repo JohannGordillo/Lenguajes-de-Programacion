@@ -8,15 +8,19 @@ y los ayudantes Manuel Soto y Alejandro Hernández.
 
 * [Práctica 01](https://github.com/JohannGordillo/Lenguajes-de-Programacion/)
 
+* [Práctica 02](https://github.com/JohannGordillo/Lenguajes-de-Programacion/)
+
+* [Práctica 03](https://github.com/JohannGordillo/Lenguajes-de-Programacion/)
+
+* [Práctica 04](https://github.com/JohannGordillo/Lenguajes-de-Programacion/)
+
+* [Práctica 05](https://github.com/JohannGordillo/Lenguajes-de-Programacion/)
+
+* [Práctica 06](https://github.com/JohannGordillo/Lenguajes-de-Programacion/)
+
 ### Prerrequisitos 📋
 
-* ...
-
-* ...
-
-## Construido con 🛠️
-
-* ...
+* [Racket](https://download.racket-lang.org/)
 
 ## Calificación obtenida :black_nib:
 
