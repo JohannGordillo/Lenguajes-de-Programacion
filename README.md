@@ -1,6 +1,6 @@
 # Lenguajes de Programación :computer:
 
-Repositorio para las prácticas del curso de Lenguajes de Programación
+Repositorio para las prácticas y tareas del curso de Lenguajes de Programación
 impartido en la Facultad de Ciencias de la UNAM durante el semestre 2020-2 por la profesora M.I. Karla Ramírez Pulido
 y los ayudantes Manuel Soto y Alejandro Hernández.
 
@@ -18,7 +18,7 @@ y los ayudantes Manuel Soto y Alejandro Hernández.
 
 * [Práctica 06](https://github.com/JohannGordillo/Lenguajes-de-Programacion/tree/master/Practicas/practica_06)
 
-## Tareas :file_folder:
+## Tareas :clipboard:
 
 * [Tarea 01](https://github.com/JohannGordillo/Lenguajes-de-Programacion/tree/master/Tareas/tarea_01)
 
