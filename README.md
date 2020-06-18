@@ -18,7 +18,7 @@ y los ayudantes Manuel Soto y Alejandro Hernández.
 
 * [Práctica 06](https://github.com/JohannGordillo/Lenguajes-de-Programacion/tree/master/Practicas/practica_06)
 
-## Tareas :clipboard:
+## Tareas :pencil:
 
 * [Tarea 01](https://github.com/JohannGordillo/Lenguajes-de-Programacion/tree/master/Tareas/tarea_01)
 
