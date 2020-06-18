@@ -6,17 +6,17 @@ y los ayudantes Manuel Soto y Alejandro Hernández.
 
 ## Prácticas :file_folder:
 
-* [Práctica 01](https://github.com/JohannGordillo/Lenguajes-de-Programacion/)
+* [Práctica 01](https://github.com/JohannGordillo/Lenguajes-de-Programacion/tree/master/Practicas/practica_01)
 
-* [Práctica 02](https://github.com/JohannGordillo/Lenguajes-de-Programacion/)
+* [Práctica 02](https://github.com/JohannGordillo/Lenguajes-de-Programacion/tree/master/Practicas/practica_02)
 
-* [Práctica 03](https://github.com/JohannGordillo/Lenguajes-de-Programacion/)
+* [Práctica 03](https://github.com/JohannGordillo/Lenguajes-de-Programacion/tree/master/Practicas/practica_03)
 
-* [Práctica 04](https://github.com/JohannGordillo/Lenguajes-de-Programacion/)
+* [Práctica 04](https://github.com/JohannGordillo/Lenguajes-de-Programacion/tree/master/Practicas/practica_04)
 
-* [Práctica 05](https://github.com/JohannGordillo/Lenguajes-de-Programacion/)
+* [Práctica 05](https://github.com/JohannGordillo/Lenguajes-de-Programacion/tree/master/Practicas/practica_05)
 
-* [Práctica 06](https://github.com/JohannGordillo/Lenguajes-de-Programacion/)
+* [Práctica 06](https://github.com/JohannGordillo/Lenguajes-de-Programacion/tree/master/Practicas/practica_06)
 
 ### Prerrequisitos 📋
 
