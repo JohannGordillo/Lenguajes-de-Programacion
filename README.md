@@ -44,7 +44,7 @@ y los ayudantes Manuel Soto y Alejandro Hernández.
 
 ## Calificación obtenida :black_nib:
 
-...
+Calificación final del curso: 10 / 10
 
 ## Licencia 📄
 
